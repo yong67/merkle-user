@@ -1,3 +1,11 @@
+## Script
+含merkle proof输入格式生成脚本，和merkle proof结果生成脚本，分别输出到子目录target下的input.json和output.json
+
+## Test
+测试覆盖率100%
+![image](https://github.com/user-attachments/assets/e08521a0-8ce7-4ad3-99a9-1e424c7fa109)
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
