@@ -1,3 +1,8 @@
+## 合约地址（已验证）
+0xb8bDF584499c1C706ddcEc111f92a6658799cC03
+### 未交互的同代码合约地址
+0x95ED3c3619598fBc79f506Fa50FA5ac83C77FE29
+
 ## Script
 含merkle proof输入格式生成脚本，和merkle proof结果生成脚本，分别输出到子目录target下的input.json和output.json
 
